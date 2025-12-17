@@ -113,7 +113,7 @@
 /* Avatar */
 .avatar {
 	max-width: 16rem;             
-	height: 10rem;
+	height: 8rem;
 	object-fit: contain;
 	background-position: center;
 	margin-left: auto;
