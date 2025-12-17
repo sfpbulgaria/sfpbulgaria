@@ -112,10 +112,10 @@
 
 /* Avatar */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	max-width: 16rem;             
+	height: 10rem;
 	border-radius: 50%;
-	object-fit: cover;
+	object-fit: contain;
 	background-position: center;
 	margin-bottom: var(--spacing-l);
 	margin-left: auto;
