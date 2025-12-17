@@ -114,7 +114,6 @@
 .avatar {
 	max-width: 16rem;             
 	height: 10rem;
-	border-radius: 50%;
 	object-fit: contain;
 	background-position: center;
 	margin-bottom: var(--spacing-l);
