@@ -116,7 +116,6 @@
 	height: 10rem;
 	object-fit: contain;
 	background-position: center;
-	margin-bottom: var(--spacing-l);
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
